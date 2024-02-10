@@ -1,6 +1,5 @@
 
-![welcome-banner (1)](https://github.com/brininha/brininha/assets/105254225/78c3995e-c5e8-47ef-9d11-049aec60c041)
-
+![welcome-banner](https://github.com/brininha/brininha/assets/105254225/f5a6aa9a-27fc-4dca-92b3-950ba0d667d1)
 
 <h2 align='center'> Oi, sou a Sabrina 😊</h2>
 
