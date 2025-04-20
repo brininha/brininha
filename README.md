@@ -2,14 +2,14 @@
 ![welcomebanner](https://github.com/user-attachments/assets/adfb8337-ab3a-4ce4-9ffa-e75985997c39)
 
 
-<h2 align='center'><samp>Hello... It's me, Sabrina! 🍄</samp></h2>
+<h2 align='center'><samp>Hello... It's me, Sabrina!</samp></h2>
 
-<h3><samp>Contatos:</samp></h3>
+<h3><samp>🍄 Contatos:</samp></h3>
 
 [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/sabrina-cristan-4a850b234/)
 [![My Skills](https://skillicons.dev/icons?i=gmail)](mailto:sabrina.cristan@gmail.com)
 
-<h3><samp>Linguagens e ferramentas:</samp></h3>
+<h3><samp>⭐ Linguagens e ferramentas:</samp></h3>
 
 [![My Skills](https://skillicons.dev/icons?i=pycharm)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=python)](https://skillicons.dev)
