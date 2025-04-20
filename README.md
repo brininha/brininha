@@ -2,13 +2,30 @@
 ![welcomebanner](https://github.com/user-attachments/assets/adfb8337-ab3a-4ce4-9ffa-e75985997c39)
 
 
-<h2 align='center'><samp>Oi, sou a Sabrina 😊</samp></h2>
+<h2 align='center'><samp>Hello... It's me, Sabrina! 🍄</samp></h2>
 
 <h3><samp>Contatos:</samp></h3>
 
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sabrina-cristan-4a850b234/)
-[![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sabrina.cristan@gmail.com)
+[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/sabrina-cristan-4a850b234/)
+[![My Skills](https://skillicons.dev/icons?i=gmail)](mailto:sabrina.cristan@gmail.com)
 
 <h3><samp>Linguagens e ferramentas:</samp></h3>
 
-<p align="left"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://i.pinimg.com/originals/51/c4/97/51c49724e1538ccccedf3933acafdac9.png" alt="python" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://i.pinimg.com/originals/00/35/78/003578c6d79125253f3f494e5d7e0249.png" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://i.pinimg.com/originals/e5/cf/56/e5cf56904e814c38c8ffb59c8c80e0f2.png" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://i.pinimg.com/originals/9a/af/82/9aaf82a3c7170af298ce11220527dcc3.png" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://i.pinimg.com/originals/6f/b3/8d/6fb38d5220adc068307ba05acdca7d5d.png" alt="javascript" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://i.pinimg.com/originals/6b/53/0d/6b530de8d6fba3bcdba3703fd5c9bbc7.png" alt="java" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://i.pinimg.com/originals/41/53/0c/41530cb2384f5cc5dc0fa4286a6e08de.png" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://i.pinimg.com/originals/81/a8/ed/81a8edd1ecc29ad38cccbb7fbecba309.png" alt="mysql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://i.pinimg.com/originals/8d/9c/3d/8d9c3d358321fa8d3e47791ec52c0710.png" alt="php" width="40" height="40"/> </a> <a href="https://www.arduino.cc" target="_blank" rel="noreferrer"> <img src="https://i.pinimg.com/originals/89/ca/31/89ca314ae4f06a591be8fd20ccf59e69.png" alt="arduino" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://i.pinimg.com/originals/67/31/cc/6731cc4e38aeb49c83da7894b866e1ad.png" alt="react native" width="40" height="40"/> </a> </p>
+[![My Skills](https://skillicons.dev/icons?i=pycharm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=css)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=bootstrap)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=figma)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=php)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=laravel)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=postman)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=mysql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=eclipse)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=arduino)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=github)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=notion)](https://skillicons.dev)
