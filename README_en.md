@@ -1,13 +1,13 @@
 
-![bannergithub](https://github.com/user-attachments/assets/467fb538-3fe8-4354-9150-699e3b2a720d)
-
+![bannerenglish](https://github.com/user-attachments/assets/ec0a0505-b2c1-43ce-89ae-894eee348bfe)
 
 <h2 align='center'><samp>Hello... It's me, Sabrina!</samp></h2>
 
-<h3><samp>🍄 Contact:</samp></h3>
+<h3><samp>🍄 Socials:</samp></h3>
 
 [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/sabrina-cristan-4a850b234/)
 [![My Skills](https://skillicons.dev/icons?i=gmail)](mailto:sabrina.cristan@gmail.com)
+[![My Skills](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/sabrinacristan/)
 
 <h3><samp>⭐ Tools:</samp></h3>
 
@@ -30,4 +30,4 @@
 [![My Skills](https://skillicons.dev/icons?i=git)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=notion)](https://skillicons.dev)
 
-Versão em português disponível [aqui](README.md).
+Portuguese version available [here](README.md).
