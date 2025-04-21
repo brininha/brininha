@@ -1,5 +1,5 @@
 
-![welcomebanner](https://github.com/user-attachments/assets/adfb8337-ab3a-4ce4-9ffa-e75985997c39)
+![bannergithub](https://github.com/user-attachments/assets/467fb538-3fe8-4354-9150-699e3b2a720d)
 
 
 <h2 align='center'><samp>Hello... It's me, Sabrina!</samp></h2>
