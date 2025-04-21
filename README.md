@@ -8,6 +8,7 @@
 
 [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/sabrina-cristan-4a850b234/)
 [![My Skills](https://skillicons.dev/icons?i=gmail)](mailto:sabrina.cristan@gmail.com)
+[![My Skills](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/sabrinacristan/)
 
 <h3><samp>⭐ Linguagens e ferramentas:</samp></h3>
 
