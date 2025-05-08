@@ -4,6 +4,13 @@
 
 <h2 align='center'><samp>Hello... It's me, Sabrina!</samp></h2>
 
+<ul>
+  <li><samp>Cursando Sistemas de Informação na USP</samp></li>
+  <li><samp>Fascinada em tecnologia com impacto social</samp></li>
+  <li><samp>Interesse em aprender mais sobre Inteligência Artificial</samp></li>
+  <li><samp>Amo café, livros e caminhadas com a minha cachorra no fim do dia</samp></li>
+</ul>
+
 <h3><samp>🍄 Contatos:</samp></h3>
 
 [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/sabrina-cristan-4a850b234/)
@@ -31,4 +38,4 @@
 [![My Skills](https://skillicons.dev/icons?i=git)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=notion)](https://skillicons.dev)
 
-Versão em inglês disponível [aqui](README_en.md).
+<p><samp>Versão em inglês disponível <a href="./README_en.md">aqui</a>.</samp></p>
