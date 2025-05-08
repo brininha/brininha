@@ -3,6 +3,13 @@
 
 <h2 align='center'><samp>Hello... It's me, Sabrina!</samp></h2>
 
+<ul>
+  <li><samp>I am studying Information Systems at USP</samp></li>
+  <li><samp>Fascinated by technologies that have a social impact</samp></li>
+  <li><samp>I am interested in learning more about Artificial Intelligence</samp></li>
+  <li><samp>I love coffee, books, and walking my dog at the end of the day</samp></li>
+</ul>
+
 <h3><samp>🍄 Socials:</samp></h3>
 
 [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/sabrina-cristan-4a850b234/)
@@ -30,4 +37,4 @@
 [![My Skills](https://skillicons.dev/icons?i=git)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=notion)](https://skillicons.dev)
 
-Portuguese version available [here](README.md).
+<p><samp>Portuguese version available <a href="./README.md">here</a>.</samp></p>
