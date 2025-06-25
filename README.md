@@ -37,5 +37,6 @@
 [![My Skills](https://skillicons.dev/icons?i=github)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=git)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=notion)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=latex)](https://skillicons.dev)
 
 <p><samp>Versão em inglês disponível <a href="./README_en.md">aqui</a>.</samp></p>
